@@ -63,7 +63,11 @@ Each prediction includes both the predicted intent and the reasoning behind it.
 * **Languages:** Only English supported in current version.
 * **Confidence:** Model does not reject uncertain predictions (can be extended with thresholding).
 
+
+
 ## 📂 Project Structure
+
+```
 
 multi_turn_intent_classification/
 |
