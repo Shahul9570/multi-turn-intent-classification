@@ -9,13 +9,15 @@ This project classifies user intent in multi-turn conversations using a fine-tun
 ### 1. Clone the Repository & Set Up Environment
 
 
-git clone (https://github.com/Shahul9570/multi-turn-intent-classification.git)
+git clone https://github.com/Shahul9570/multi-turn-intent-classification.git
+
 cd multi_turn_intent_classification
 python -m venv venv
 # For Windows:
 venv\Scripts\activate
 # For Unix/macOS:
 source venv/bin/activate
+
 pip install -r requirements.txt
 
 
